@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "IINOT_ESP32",
+      "maintainer": "IINOT",
+      "websiteURL": "https://github.com/samudraladinesh/iinot-esp32s3-board",
+      "email": "support@iinot.com",
+      "help": {
+        "online": "https://github.com/samudraladinesh/iinot-esp32s3-board/issues"
+      },
+      "platforms": [
+        {
+          "name": "IINOT ESP32-S3 Boards",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/samudraladinesh/iinot-esp32s3-board/releases/download/v1.0.0/IINOT_ESP32_S3_SolarPwered_1.0.0.zip",
+          "archiveFileName": "IINOT_ESP32_S3_SolarPwered_1.0.0.zip",
+          "checksum": "SHA-256:1133FB3396505D250BD2060C2818DCD3CB1001DD7C31CEB40A13477CFDE42B46",
+          "size": "1058",
+          "boards": [
+            { "name": "Custom ESP32-S3 (16MB Flash, No PSRAM)" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
